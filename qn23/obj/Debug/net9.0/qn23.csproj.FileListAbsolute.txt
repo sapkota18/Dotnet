@@ -1,0 +1,14 @@
+D:\C#\qn23\bin\Debug\net9.0\qn23.exe
+D:\C#\qn23\bin\Debug\net9.0\qn23.deps.json
+D:\C#\qn23\bin\Debug\net9.0\qn23.runtimeconfig.json
+D:\C#\qn23\bin\Debug\net9.0\qn23.dll
+D:\C#\qn23\bin\Debug\net9.0\qn23.pdb
+D:\C#\qn23\obj\Debug\net9.0\qn23.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\qn23\obj\Debug\net9.0\qn23.AssemblyInfoInputs.cache
+D:\C#\qn23\obj\Debug\net9.0\qn23.AssemblyInfo.cs
+D:\C#\qn23\obj\Debug\net9.0\qn23.csproj.CoreCompileInputs.cache
+D:\C#\qn23\obj\Debug\net9.0\qn23.dll
+D:\C#\qn23\obj\Debug\net9.0\refint\qn23.dll
+D:\C#\qn23\obj\Debug\net9.0\qn23.pdb
+D:\C#\qn23\obj\Debug\net9.0\qn23.genruntimeconfig.cache
+D:\C#\qn23\obj\Debug\net9.0\ref\qn23.dll

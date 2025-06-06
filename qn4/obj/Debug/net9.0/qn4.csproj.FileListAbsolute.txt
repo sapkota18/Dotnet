@@ -1,0 +1,14 @@
+D:\C#\qn4\bin\Debug\net9.0\qn4.exe
+D:\C#\qn4\bin\Debug\net9.0\qn4.deps.json
+D:\C#\qn4\bin\Debug\net9.0\qn4.runtimeconfig.json
+D:\C#\qn4\bin\Debug\net9.0\qn4.dll
+D:\C#\qn4\bin\Debug\net9.0\qn4.pdb
+D:\C#\qn4\obj\Debug\net9.0\qn4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\qn4\obj\Debug\net9.0\qn4.AssemblyInfoInputs.cache
+D:\C#\qn4\obj\Debug\net9.0\qn4.AssemblyInfo.cs
+D:\C#\qn4\obj\Debug\net9.0\qn4.csproj.CoreCompileInputs.cache
+D:\C#\qn4\obj\Debug\net9.0\qn4.dll
+D:\C#\qn4\obj\Debug\net9.0\refint\qn4.dll
+D:\C#\qn4\obj\Debug\net9.0\qn4.pdb
+D:\C#\qn4\obj\Debug\net9.0\qn4.genruntimeconfig.cache
+D:\C#\qn4\obj\Debug\net9.0\ref\qn4.dll
