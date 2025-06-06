@@ -21,10 +21,11 @@ class Program
             }
             }
 
+
             if (isPrime)
-            Console.WriteLine($"{number} is a prime number.");
+                Console.WriteLine($"{number} is a prime number.");
             else
-            Console.WriteLine($"Largest factor of {number} is {largestFactor}.");
+                Console.WriteLine($"Largest factor of {number} is {largestFactor}.");
         }
         else
         {

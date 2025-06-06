@@ -20,6 +20,7 @@ class Program
             sum += numbers[i];
         }
 
+
         Console.WriteLine("The sum of the array is: " + sum);
     }
 }

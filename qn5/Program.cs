@@ -31,6 +31,7 @@ class Program
             }
         }
 
+
         Console.WriteLine($"The largest element is: {largest}");
         Console.WriteLine($"The smallest element is: {smallest}");
     }
